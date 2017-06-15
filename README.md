@@ -1,0 +1,2 @@
+# sticker-game
+Sticker game is very popular in real world as “wrestling sticker” game in Nepal. It’s just an attempt to develop a similar game. Since I didn’t use any graphics library, it was nearly impossible to include such stickers in the game. So, I chose to use ASCII characters. Keeping in mind that the logic of the game should be similar to the real one, we have especially focused on that matter. This game was developed as a C project in the very first semester of my Bachelor's in Computer.
